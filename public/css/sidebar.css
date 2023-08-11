@@ -1,0 +1,3 @@
+.list .element--broke_template::before {
+  content: "\f475";
+}

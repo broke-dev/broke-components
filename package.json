@@ -1,0 +1,20 @@
+{
+  "name": "broke-components",
+  "version": "1.0.0",
+  "description": "Broke Components by **Broke.dev** is a forward-thinking approach to WordPress server-side component design. Based on the bedrock functionalities of Lisa Templates, Broke Components aims to pioneer new horizons in delivering a unique WordPress experience.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domartisan/broke-components.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domartisan/broke-components/issues"
+  },
+  "homepage": "https://github.com/domartisan/broke-components#readme"
+}
